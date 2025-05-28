@@ -1,0 +1,12 @@
+﻿ProductionID,int,NULL,NO
+ProductionDate,date,NULL,YES
+PlantCode,varchar,10,YES
+PlantName,varchar,100,YES
+BusinessUnitCode,varchar,10,YES
+BusinessUnitName,varchar,100,YES
+ProductTypeCode,varchar,10,YES
+ProductTypeName,varchar,100,YES
+PlannedProduction,decimal,NULL,YES
+ActualProduction,decimal,NULL,YES
+ProductionEfficiency,decimal,NULL,YES
+ImportDate,datetime,NULL,YES

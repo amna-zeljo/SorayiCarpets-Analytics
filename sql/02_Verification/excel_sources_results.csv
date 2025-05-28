@@ -1,0 +1,12 @@
+﻿dbo,tbl_gl_calendar$,BASE TABLE
+dbo,tbl_inventory_plant_trend$,BASE TABLE
+dbo,tbl_prod_cur_lst_yer_compar$,BASE TABLE
+dbo,tbl_production_trend$,BASE TABLE
+dbo,tbl_sales_prod_calendar$,BASE TABLE
+import,tbl_gl_calendar,BASE TABLE
+import,tbl_inventory_plant_trend,BASE TABLE
+import,tbl_kpi_summary,BASE TABLE
+import,tbl_prod_budget_forecast,BASE TABLE
+import,tbl_prod_cur_lst_yr_compar,BASE TABLE
+import,tbl_production_trend,BASE TABLE
+import,tbl_sales_prod_calendar,BASE TABLE
