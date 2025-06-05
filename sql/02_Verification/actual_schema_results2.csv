@@ -1,6 +1,0 @@
-﻿DimBusinessUnit,BASE TABLE
-DimDate,BASE TABLE
-DimPlant,BASE TABLE
-DimProduct,BASE TABLE
-DimProductType,BASE TABLE
-FactProduction,BASE TABLE

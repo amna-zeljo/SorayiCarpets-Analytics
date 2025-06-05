@@ -1,9 +1,0 @@
-﻿ProductionKey,int,NO
-DateKey,int,NO
-PlantKey,int,NO
-ProductKey,int,NO
-BusinessUnitKey,int,NO
-ProductionQuantity,decimal,YES
-ProductionCost,decimal,YES
-ProductionEfficiency,decimal,YES
-QualityScore,decimal,YES

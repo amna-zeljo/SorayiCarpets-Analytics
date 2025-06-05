@@ -1,9 +1,0 @@
-﻿SorayiCarpets_Star,production_star,FactProduction,ProductionKey,1,NULL,NO,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,DateKey,2,NULL,NO,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,PlantKey,3,NULL,NO,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,ProductKey,4,NULL,NO,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,BusinessUnitKey,5,NULL,NO,int,NULL,NULL,10,10,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,ProductionQuantity,6,NULL,YES,decimal,NULL,NULL,18,10,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,ProductionCost,7,NULL,YES,decimal,NULL,NULL,18,10,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,ProductionEfficiency,8,NULL,YES,decimal,NULL,NULL,18,10,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-SorayiCarpets_Star,production_star,FactProduction,QualityScore,9,NULL,YES,decimal,NULL,NULL,18,10,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

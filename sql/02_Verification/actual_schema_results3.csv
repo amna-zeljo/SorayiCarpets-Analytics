@@ -1,4 +1,0 @@
-﻿BusinessUnitKey,int,NULL,NO,NULL
-BusinessUnitCode,varchar,50,NO,NULL
-BusinessUnitName,varchar,100,YES,NULL
-Department,varchar,50,YES,NULL
