@@ -1,0 +1,12 @@
+﻿Source,tbl_sales_prod_calendar$,2920
+Source,tbl_production_trend$,1656
+Source,tbl_inventory_plant_trend$,1552
+Source,tbl_prod_cur_lst_yer_compar$,144
+Source,tbl_gl_calendar$,48
+Source,tbl_inventory_plant_trend,6
+Source,tbl_production_trend,5
+Source,tbl_prod_cur_lst_yr_compar,5
+Source,tbl_sales_prod_calendar,5
+Source,tbl_kpi_summary,5
+Source,tbl_prod_budget_forecast,5
+Source,tbl_gl_calendar,5

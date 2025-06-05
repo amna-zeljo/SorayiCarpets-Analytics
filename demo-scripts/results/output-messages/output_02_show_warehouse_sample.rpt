@@ -1,0 +1,14 @@
+﻿=== WAREHOUSE SAMPLE DATA ===
+Available tables in Data Warehouse:
+
+(9 rows affected)
+Sample data from main warehouse table:
+Showing sample from table: DimPlant
+
+(8 rows affected)
+Data warehouse summary:
+
+(1 row affected)
+=== WAREHOUSE SAMPLE DATA COMPLETE ===
+
+Completion time: 2025-06-05T23:19:08.7554390+02:00
