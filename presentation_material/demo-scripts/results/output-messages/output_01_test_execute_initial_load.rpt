@@ -1,0 +1,12 @@
+﻿=== SIMPLE TEST LOAD ===
+Checking source system...
+
+(12 rows affected)
+Current source system state:
+
+(12 rows affected)
+DWH system ready
+Star Schema system ready
+=== SIMPLE TEST LOAD COMPLETE ===
+
+Completion time: 2025-06-05T22:50:12.1757854+02:00

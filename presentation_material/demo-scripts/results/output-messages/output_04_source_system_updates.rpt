@@ -1,0 +1,23 @@
+﻿=== PERFORMING SOURCE SYSTEM UPDATES ===
+Current source system state (before updates):
+
+(12 rows affected)
+Working with main table: tbl_sales_prod_calendar$
+Performing INSERT operations...
+Adding new test records to: tbl_sales_prod_calendar$
+Note: Customize INSERT statements for your specific table structure
+Performing UPDATE operations...
+
+(3 rows affected)
+Updated 3 records in tbl_sales_prod_calendar$
+Performing DELETE operations...
+
+(2 rows affected)
+Deleted 2 records from tbl_sales_prod_calendar$
+Source system state after updates:
+
+(12 rows affected)
+=== SOURCE SYSTEM UPDATES COMPLETE ===
+Ready for incremental load process
+
+Completion time: 2025-06-05T23:26:57.1881056+02:00
