@@ -1,0 +1,9 @@
+﻿DateKey,int
+CalendarDate,date
+Year,int
+Month,int
+Day,int
+Quarter,int
+MonthName,varchar
+DayOfWeek,int
+DayName,varchar
